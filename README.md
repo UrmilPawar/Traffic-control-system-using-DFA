@@ -10,9 +10,9 @@ The following are the points which are taken into consideration while developing
 4. Avoid biasing towards a single direction to ensure a more balanced flow during heavy traffic.
 5. Easy  integration into real-world scenarios.
 # Images of Output
-![Output-1](images/Output-2.png)
-![Output-2](images/Output-3.png)
-![Output-3](images/Output-4.png)
+![Output-1](images/Output-1.png)
+![Output-2](images/Output-2.png)
+![Output-3](images/Output-3.png)
 
 # Documentation
 Please refere this document for more detailed explaination:
