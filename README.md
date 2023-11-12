@@ -9,3 +9,9 @@ The following are the points which are taken into consideration while developing
 3. Preventing Unnecessary delays and avoiding wastage of time on empty roads.
 4. Avoid biasing towards a single direction to ensure a more balanced flow during heavy traffic.
 5. Easy  integration into real-world scenarios.
+
+## Documentation
+Please refere this document for more detailed explaination:
+
+[Documentation](
+https://docs.google.com/document/d/16tYTZZ5Ewma_ZG25JxgfRKfh6fy3FYo5/edit?usp=sharing&ouid=100036865083389644506&rtpof=true&sd=true)
