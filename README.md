@@ -22,7 +22,7 @@ The following are the points which are taken into consideration while developing
 - V: Traffic is detected in at least one vertical lane (North, South, North-South)
 - H: Traffic is detected in at least one horizontal lane (East, West, East-West)
 - B: Traffic is detected in at least one vertical and horizontal lane(North-East, East-South, North-East-South, North-East-West-South, etc.) 
-- N: Traffic is detected in none of the direction
+- N: Traffic is detected in none of the direction.
 
 
 ### Meaning of the output:
